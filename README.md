@@ -8,6 +8,8 @@
 
 This repository contains research code and visualizations for analyzing musical chord progressions through geometric curvature. The project maps musical chords into 3D coordinate space and calculates their curvature, revealing hidden geometric patterns in popular songs.
 
+<img width="1473" height="346" alt="image" src="https://github.com/user-attachments/assets/c7b67cea-9373-46b2-baf7-26d11e10d4d7" />
+
 **Based on the research paper**: *"Musical Curvature: A Geometric Approach to Chord Progression Analysis"* presented at Bridges 2022 Conference on Mathematics, Art, Music, Architecture, Culture.
 
 ## What is Musical Curvature?
